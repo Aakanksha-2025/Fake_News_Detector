@@ -1,4 +1,4 @@
-# Fake_New_Detector
+# Fake_News_Detector
 A machine learning–based model that detects whether a news article is real or fake.
 ---
 ## Features
