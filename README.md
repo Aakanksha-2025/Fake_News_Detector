@@ -27,10 +27,16 @@ fake-news-detector/
 2. Place Fake.csv and True.csv inside _/data_ folder
 3. Run prepare_data.py
 
-## Installation Requirements
-```
-pip install -r requirements.txt
-```
+## Installation
+1. Clone the repository
+   ```
+   git clone https://github.com/Aakanksha-2025/Fake_News_Detector.git
+   cd Fake_News_Detector
+   ```
+2. Install Dependencies
+   ```
+   pip install -r requirements.txt
+   ```
 
 ## Running the API
 
