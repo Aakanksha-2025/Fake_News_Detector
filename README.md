@@ -68,6 +68,13 @@ curl -Method POST http://127.0.0.1:5000/predict `
 -Headers @{"Content-Type"="application/json"} `
 -Body '{"text":"Aliens are controlling world leaders"}'
 ```
+OR
+Run ```app.py``` on streamlit.
+User Input:
+In the textbox, input the news headline:
+```
+Aliens are controlling world leaders
+```
 ## Output Example
 
-[View Model Output Screenshot](https://github.com/user-attachments/assets/4c6e97a7-4b72-479c-910b-c2850ae72ff3)
+[View Streamlit_Model Output Screenshot](https://github.com/user-attachments/assets/4c6e97a7-4b72-479c-910b-c2850ae72ff3)
