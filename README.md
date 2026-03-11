@@ -70,4 +70,4 @@ curl -Method POST http://127.0.0.1:5000/predict `
 ```
 ## Output Example
 
-[View Model Output Screenshot](https://github.com/user-attachments/assets/531b948d-b9b9-47f0-a0bc-3df4e119edc7)
+[View Model Output Screenshot](https://github.com/user-attachments/assets/4c6e97a7-4b72-479c-910b-c2850ae72ff3)
